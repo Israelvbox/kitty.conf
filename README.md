@@ -14,5 +14,5 @@ sudo rm -r ~/Kitty.conf
 
 
 ## Overview
-![image](https://gitlab.com/Israelvbox/kitty.conf/-/blob/main/overview/Captura%20desde%202024-04-28%2014-18-05.png?ref_type=heads)
+![image](https://github.com/Israelvbox/kitty.conf/blob/main/overview/Captura%20desde%202024-04-28%2014-18-05.png)
 
