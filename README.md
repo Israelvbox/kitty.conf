@@ -3,12 +3,12 @@
 
 ```shell
 sudo apt install zsh curl git -y
-git clone https://github.com/Israelvbox/kitty.conf && cd kitty.conf
+git clone https://github.com/Israelvbox/zsh.tx && cd zsh.tx
 ```
 
 ```shell
 sudo chmod +x zap.zsh && ./zap.zsh
-sudo rm -r ~/kitty.conf
+sudo rm -r ~/zsh.tx
 ```
 
 
